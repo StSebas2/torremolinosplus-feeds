@@ -1,0 +1,202 @@
+{
+    "version": 1,
+    "campanas": [
+        {
+            "slug": "eclipse-2027",
+            "nombre": "Eclipse total de sol 2027",
+            "desde": "2027-07-30",
+            "hasta": "2027-08-03",
+            "url": "https://torremolinosplus.com/eclipse-solar-2027-torremolinos/"
+        },
+        {
+            "slug": "gala-drag",
+            "nombre": "Gala Drag Queen de Torremolinos",
+            "desde": null,
+            "hasta": null,
+            "url": "https://torremolinosplus.com/gala-drag-queen-torremolinos/"
+        },
+        {
+            "slug": "pride",
+            "nombre": "Pride Torremolinos",
+            "desde": "2027-05-27",
+            "hasta": "2027-06-06",
+            "url": "https://torremolinosplus.com/pride-torremolinos/"
+        }
+    ],
+    "festivales": [
+        {
+            "slug": "eclipse-2027",
+            "nombre": "Eclipse total de sol 2027",
+            "campana": true,
+            "url": "https://torremolinosplus.com/eclipse-solar-2027-torremolinos/",
+            "web_oficial": "",
+            "proximos": []
+        },
+        {
+            "slug": "gala-drag",
+            "nombre": "Gala Drag Queen de Torremolinos",
+            "campana": true,
+            "url": "https://torremolinosplus.com/gala-drag-queen-torremolinos/",
+            "web_oficial": "",
+            "proximos": []
+        },
+        {
+            "slug": "infinity-festival",
+            "nombre": "Infinity Festival Torremolinos",
+            "campana": false,
+            "url": "https://torremolinosplus.com/infinity-festival-torremolinos/",
+            "web_oficial": "https://www.infinityfestival.eu/",
+            "proximos": [
+                {
+                    "titulo": "Infinity Festival y KINK Festival 2027",
+                    "inicio": "2027-06-16 00:30",
+                    "url": "https://torremolinosplus.com/eventos/infinity-festival-y-kink-festival-2027/"
+                },
+                {
+                    "titulo": "Infinity X Awards 2027",
+                    "inicio": "2027-10-07 22:00",
+                    "url": "https://torremolinosplus.com/eventos/infinity-x-awards-2027/"
+                }
+            ]
+        },
+        {
+            "slug": "kink-weekend",
+            "nombre": "Kink Weekend Torremolinos",
+            "campana": false,
+            "url": "https://torremolinosplus.com/kink-weekend-torremolinos/",
+            "web_oficial": "https://kinkweekend.eu/",
+            "proximos": []
+        },
+        {
+            "slug": "pipazo-weekend",
+            "nombre": "Pipazo Weekend",
+            "campana": false,
+            "url": "https://torremolinosplus.com/pipazo-weekend-torremolinos/",
+            "web_oficial": "",
+            "proximos": []
+        },
+        {
+            "slug": "pride",
+            "nombre": "Pride Torremolinos",
+            "campana": true,
+            "url": "https://torremolinosplus.com/pride-torremolinos/",
+            "web_oficial": "https://pridetorremolinos.es/",
+            "proximos": [
+                {
+                    "titulo": "Semana Cultural del Pride 2027",
+                    "inicio": "2027-05-27 10:00",
+                    "url": "https://torremolinosplus.com/eventos/semana-cultural-pride-2027/"
+                },
+                {
+                    "titulo": "Pride Torremolinos 2027",
+                    "inicio": "2027-06-03 10:00",
+                    "url": "https://torremolinosplus.com/eventos/pride-torremolinos-2027/"
+                }
+            ]
+        },
+        {
+            "slug": "bear-fest",
+            "nombre": "Torremolinos Bear Fest",
+            "campana": false,
+            "url": "https://torremolinosplus.com/bear-fest-torremolinos/",
+            "web_oficial": "https://www.instagram.com/torremolinosbearfest/",
+            "proximos": []
+        },
+        {
+            "slug": "winter-fest",
+            "nombre": "Winter Fest Torremolinos",
+            "campana": false,
+            "url": "https://torremolinosplus.com/winter-fest-torremolinos/",
+            "web_oficial": "",
+            "proximos": []
+        }
+    ],
+    "grandes_eventos": [
+        {
+            "titulo": "XVII Ruta de la Tapa de Torremolinos",
+            "inicio": "2026-11-13 12:00",
+            "fin": "2026-11-22 23:59",
+            "lugar": "Bares y restaurantes de Torremolinos",
+            "url": "https://torremolinosplus.com/eventos/xvii-ruta-de-la-tapa-de-torremolinos/"
+        },
+        {
+            "titulo": "Tardeo Blue Party de Daddy’s Torremolinos",
+            "inicio": "2026-11-21 18:00",
+            "fin": null,
+            "lugar": "AQUA Emporio",
+            "url": "https://torremolinosplus.com/eventos/tardeo-blue-party-de-daddys-torremolinos/"
+        },
+        {
+            "titulo": "Gala del Día Mundial de la Lucha contra el Sida",
+            "inicio": "2026-11-27 19:00",
+            "fin": null,
+            "lugar": "Centro Cultural Pablo Ruiz Picasso (salón de actos)",
+            "url": "https://torremolinosplus.com/eventos/gala-del-dia-mundial-de-la-lucha-contra-el-sida/"
+        },
+        {
+            "titulo": "NaviDaddy’s 2026",
+            "inicio": "2026-12-24 18:00",
+            "fin": "2027-01-02 22:00",
+            "lugar": "AQUA Emporio, Eden Beach y otros locales",
+            "url": "https://torremolinosplus.com/eventos/navidaddy/"
+        },
+        {
+            "titulo": "Torremolinos Fetish Weekend 2027",
+            "inicio": "2027-05-06 22:00",
+            "fin": "2027-05-09 23:59",
+            "lugar": "Eagle Bar y otros locales de Torremolinos",
+            "url": "https://torremolinosplus.com/eventos/torremolinos-fetish-weekend-2027/"
+        },
+        {
+            "titulo": "Semana Cultural del Pride 2027",
+            "inicio": "2027-05-27 10:00",
+            "fin": "2027-06-02 23:59",
+            "lugar": "Centro Cultural Pablo Ruiz Picasso",
+            "url": "https://torremolinosplus.com/eventos/semana-cultural-pride-2027/"
+        },
+        {
+            "titulo": "Pride Torremolinos 2027",
+            "inicio": "2027-06-03 10:00",
+            "fin": "2027-06-06 23:59",
+            "lugar": "Centro Cultural Pablo Ruiz Picasso",
+            "url": "https://torremolinosplus.com/eventos/pride-torremolinos-2027/"
+        },
+        {
+            "titulo": "Infinity Festival y KINK Festival 2027",
+            "inicio": "2027-06-16 00:30",
+            "fin": "2027-06-20 23:59",
+            "lugar": "Bunker Club, AQUA Emporio y otros locales",
+            "url": "https://torremolinosplus.com/eventos/infinity-festival-y-kink-festival-2027/"
+        },
+        {
+            "titulo": "MadBear Beach Torremolinos 2027",
+            "inicio": "2027-08-06 22:00",
+            "fin": "2027-08-17 23:59",
+            "lugar": "Torremolinos",
+            "url": "https://torremolinosplus.com/eventos/madbear-beach-torremolinos-2027/"
+        },
+        {
+            "titulo": "Daddy Week Torremolinos 2027",
+            "inicio": "2027-09-20 18:00",
+            "fin": "2027-09-26 23:59",
+            "lugar": "Varios locales de Torremolinos",
+            "url": "https://torremolinosplus.com/eventos/daddy-week-torremolinos-2027/"
+        },
+        {
+            "titulo": "Infinity X Awards 2027",
+            "inicio": "2027-10-07 22:00",
+            "fin": "2027-10-11 23:59",
+            "lugar": "Torremolinos",
+            "url": "https://torremolinosplus.com/eventos/infinity-x-awards-2027/"
+        }
+    ],
+    "recuentos": {
+        "socios_activos": 33,
+        "eventos_en_agenda": 45,
+        "ofertas_vigentes": 7,
+        "ofertas_por_tipo": {
+            "comida": 3,
+            "ocio": 4
+        }
+    }
+}
