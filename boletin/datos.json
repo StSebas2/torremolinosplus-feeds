@@ -48,9 +48,9 @@
             "web_oficial": "https://www.infinityfestival.eu/",
             "proximos": [
                 {
-                    "titulo": "Infinity Festival y KINK Festival 2027",
+                    "titulo": "Infinity Festival 2027",
                     "inicio": "2027-06-16 00:30",
-                    "url": "https://torremolinosplus.com/eventos/infinity-festival-y-kink-festival-2027/"
+                    "url": "https://torremolinosplus.com/eventos/infinity-festival-2027/"
                 },
                 {
                     "titulo": "Infinity X Awards 2027",
@@ -65,7 +65,13 @@
             "campana": false,
             "url": "https://torremolinosplus.com/kink-weekend-torremolinos/",
             "web_oficial": "https://kinkweekend.eu/",
-            "proximos": []
+            "proximos": [
+                {
+                    "titulo": "KINK Weekend 2027",
+                    "inicio": "2027-06-16 00:30",
+                    "url": "https://torremolinosplus.com/eventos/kink-weekend-2027/"
+                }
+            ]
         },
         {
             "slug": "pipazo-weekend",
@@ -162,11 +168,18 @@
             "url": "https://torremolinosplus.com/eventos/pride-torremolinos-2027/"
         },
         {
-            "titulo": "Infinity Festival y KINK Festival 2027",
+            "titulo": "Infinity Festival 2027",
             "inicio": "2027-06-16 00:30",
             "fin": "2027-06-20 23:59",
             "lugar": "Bunker Club, AQUA Emporio y otros locales",
-            "url": "https://torremolinosplus.com/eventos/infinity-festival-y-kink-festival-2027/"
+            "url": "https://torremolinosplus.com/eventos/infinity-festival-2027/"
+        },
+        {
+            "titulo": "KINK Weekend 2027",
+            "inicio": "2027-06-16 00:30",
+            "fin": "2027-06-20 23:59",
+            "lugar": "Bunker Club, Emporio Club y otros locales",
+            "url": "https://torremolinosplus.com/eventos/kink-weekend-2027/"
         },
         {
             "titulo": "MadBear Beach Torremolinos 2027",
@@ -192,7 +205,7 @@
     ],
     "recuentos": {
         "socios_activos": 33,
-        "eventos_en_agenda": 64,
+        "eventos_en_agenda": 65,
         "ofertas_vigentes": 9,
         "ofertas_por_tipo": {
             "comida": 4,
