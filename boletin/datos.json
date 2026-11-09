@@ -193,9 +193,9 @@
     "recuentos": {
         "socios_activos": 33,
         "eventos_en_agenda": 44,
-        "ofertas_vigentes": 8,
+        "ofertas_vigentes": 9,
         "ofertas_por_tipo": {
-            "comida": 3,
+            "comida": 4,
             "ocio": 5
         }
     }
