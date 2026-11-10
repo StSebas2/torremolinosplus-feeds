@@ -48,6 +48,11 @@
             "web_oficial": "https://www.infinityfestival.eu/",
             "proximos": [
                 {
+                    "titulo": "ANIMAL Party de Infinity en AQUA Emporio",
+                    "inicio": "2026-12-04 00:00",
+                    "url": "https://torremolinosplus.com/eventos/animal-party-de-infinity-en-aqua-emporio/"
+                },
+                {
                     "titulo": "Infinity Festival 2027",
                     "inicio": "2027-06-16 00:30",
                     "url": "https://torremolinosplus.com/eventos/infinity-festival-2027/"
@@ -205,7 +210,7 @@
     ],
     "recuentos": {
         "socios_activos": 33,
-        "eventos_en_agenda": 74,
+        "eventos_en_agenda": 75,
         "ofertas_vigentes": 9,
         "ofertas_por_tipo": {
             "comida": 4,
