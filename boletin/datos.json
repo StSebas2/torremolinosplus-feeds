@@ -210,10 +210,10 @@
     ],
     "recuentos": {
         "socios_activos": 33,
-        "eventos_en_agenda": 83,
-        "ofertas_vigentes": 11,
+        "eventos_en_agenda": 84,
+        "ofertas_vigentes": 12,
         "ofertas_por_tipo": {
-            "comida": 5,
+            "comida": 6,
             "ocio": 6
         }
     }
