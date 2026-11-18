@@ -152,6 +152,13 @@
             "url": "https://torremolinosplus.com/eventos/navidaddy/"
         },
         {
+            "titulo": "Daddy Xmas Torremolinos 2026",
+            "inicio": "2026-12-27 18:00",
+            "fin": "2026-12-30 23:59",
+            "lugar": "Baloo Bar, AQUA Emporio, Hotel Ritual y El 12 Bar",
+            "url": "https://torremolinosplus.com/eventos/daddy-xmas-torremolinos-2026/"
+        },
+        {
             "titulo": "Torremolinos Fetish Weekend 2027",
             "inicio": "2027-05-06 22:00",
             "fin": "2027-05-09 23:59",
@@ -210,10 +217,10 @@
     ],
     "recuentos": {
         "socios_activos": 33,
-        "eventos_en_agenda": 68,
-        "ofertas_vigentes": 12,
+        "eventos_en_agenda": 71,
+        "ofertas_vigentes": 13,
         "ofertas_por_tipo": {
-            "comida": 7,
+            "comida": 8,
             "ocio": 5
         }
     }
