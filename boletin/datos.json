@@ -58,6 +58,11 @@
                     "url": "https://torremolinosplus.com/eventos/infinity-festival-2027/"
                 },
                 {
+                    "titulo": "BLACK Main Party de Infinity Festival",
+                    "inicio": "2027-06-19 00:30",
+                    "url": "https://torremolinosplus.com/eventos/black-main-party-de-infinity-festival/"
+                },
+                {
                     "titulo": "Infinity X Awards 2027",
                     "inicio": "2027-10-07 22:00",
                     "url": "https://torremolinosplus.com/eventos/infinity-x-awards-2027/"
@@ -194,6 +199,13 @@
             "url": "https://torremolinosplus.com/eventos/kink-weekend-2027/"
         },
         {
+            "titulo": "BLACK Main Party de Infinity Festival",
+            "inicio": "2027-06-19 00:30",
+            "fin": null,
+            "lugar": "Centuryon Torremolinos",
+            "url": "https://torremolinosplus.com/eventos/black-main-party-de-infinity-festival/"
+        },
+        {
             "titulo": "MadBear Beach Torremolinos 2027",
             "inicio": "2027-08-06 22:00",
             "fin": "2027-08-17 23:59",
@@ -217,7 +229,7 @@
     ],
     "recuentos": {
         "socios_activos": 33,
-        "eventos_en_agenda": 101,
+        "eventos_en_agenda": 103,
         "ofertas_vigentes": 13,
         "ofertas_por_tipo": {
             "comida": 9,
