@@ -136,13 +136,6 @@
             "url": "https://torremolinosplus.com/eventos/xvii-ruta-de-la-tapa-de-torremolinos/"
         },
         {
-            "titulo": "Tardeo Blue Party de Daddy’s Torremolinos",
-            "inicio": "2026-11-21 18:00",
-            "fin": null,
-            "lugar": "AQUA Emporio",
-            "url": "https://torremolinosplus.com/eventos/tardeo-blue-party-de-daddys-torremolinos/"
-        },
-        {
             "titulo": "Gala del Día Mundial de la Lucha contra el Sida",
             "inicio": "2026-11-27 19:00",
             "fin": null,
@@ -229,7 +222,7 @@
     ],
     "recuentos": {
         "socios_activos": 33,
-        "eventos_en_agenda": 103,
+        "eventos_en_agenda": 102,
         "ofertas_vigentes": 13,
         "ofertas_por_tipo": {
             "comida": 9,
