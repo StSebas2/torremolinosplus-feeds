@@ -215,11 +215,11 @@
     ],
     "recuentos": {
         "socios_activos": 33,
-        "eventos_en_agenda": 93,
-        "ofertas_vigentes": 13,
+        "eventos_en_agenda": 94,
+        "ofertas_vigentes": 14,
         "ofertas_por_tipo": {
             "comida": 9,
-            "ocio": 4
+            "ocio": 5
         }
     }
 }
