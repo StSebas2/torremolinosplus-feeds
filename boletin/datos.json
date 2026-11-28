@@ -129,13 +129,6 @@
     ],
     "grandes_eventos": [
         {
-            "titulo": "Gala del Día Mundial de la Lucha contra el Sida",
-            "inicio": "2026-11-27 19:00",
-            "fin": null,
-            "lugar": "Centro Cultural Pablo Ruiz Picasso",
-            "url": "https://torremolinosplus.com/eventos/gala-del-dia-mundial-de-la-lucha-contra-el-sida/"
-        },
-        {
             "titulo": "NaviDaddy’s 2026",
             "inicio": "2026-12-24 18:00",
             "fin": "2027-01-02 22:00",
@@ -215,7 +208,7 @@
     ],
     "recuentos": {
         "socios_activos": 33,
-        "eventos_en_agenda": 94,
+        "eventos_en_agenda": 93,
         "ofertas_vigentes": 14,
         "ofertas_por_tipo": {
             "comida": 9,
